@@ -11,7 +11,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=800&color=FF6B35&center=true&vline=true&width=700&height=60&lines=⚡+VIBE+CODER+⚡;🐺+AHISKA+TURK+🐺;𐰚𐰇𐰚+𐱅𐰭𐰼𐰃+—+Kök+Tengri+🌌;🔥+BUILDING+THE+FUTURE+🔥;💻+CODE+IS+MY+RELIGION+💻;🇹🇷+ANTALYA+REPRESENT+🇹🇷" alt="Typing SVG" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=800&color=FF6B35&center=true&vline=true&width=700&height=60&lines=%E2%9A%A1%20VIBE%20CODER%20%E2%9A%A1;%F0%9F%90%BA%20AHISKA%20TURK%20%F0%9F%90%BA;Kok%20Tengri%20--%20Ancient%20Spirit%20%F0%9F%8C%8C;%F0%9F%94%A5%20BUILDING%20THE%20FUTURE%20%F0%9F%94%A5;%F0%9F%92%BB%20CODE%20IS%20MY%20RELIGION%20%F0%9F%92%BB;%F0%9F%87%B9%F0%9F%87%B7%20ANTALYA%20REPRESENT%20%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="480" />
+</div>
 
 </div>
 
