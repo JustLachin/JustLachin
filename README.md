@@ -129,13 +129,13 @@ const JustLachin = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JustLachin&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9&ring_color=FF6B35&count_private=true" height="165"/>
+<img src="https://github-readme-stats-orcin-iota-76.vercel.app/api?username=JustLachin&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9&ring_color=FF6B35&count_private=true" height="165"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustLachin&theme=radical&hide_border=true&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=c9d1d9&dates=888" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustLachin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&langs_count=8" height="140"/>
+<img src="https://github-readme-stats-orcin-iota-76.vercel.app/api/top-langs/?username=JustLachin&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="200"/>
 
 <br/><br/>
 
