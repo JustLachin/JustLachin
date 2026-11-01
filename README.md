@@ -39,7 +39,7 @@ const JustLachin = {
   // ─── IDENTITY ──────────────────────
   name:       "Lachin",
   username:   "JustLachin",
-  age:         20,
+  age:         21,
   location:   "Antalya, Türkiye 🇹🇷",
 
   // ─── ROOTS ─────────────────────────
